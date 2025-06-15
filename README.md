@@ -37,4 +37,10 @@ A Retrieval-Augmented Generation (RAG) system powered by a single agent that ans
 ## Example Queries
 <img width="1430" alt="image" src="https://github.com/user-attachments/assets/c266caab-cbfd-4fb8-9433-a6ce2aeb5700" />
 
+---
 
+## Future improvemnets
+
+  - **Multi-country Support**: Add dynamic ISO code filtering to support other countries beyond the U.S.
+  - **Arabic Language Integration**: Expand to Arabic policies for bilingual query handling.
+  - **Web UI Interface**: Build a simple frontend for non-technical users to try the system.
